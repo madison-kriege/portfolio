@@ -1,0 +1,7 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "description": "Personal portfolio for Madison Kriege 2025",
+    "main": "src/index.html",
+    "author": "Madison Kriege"
+}
